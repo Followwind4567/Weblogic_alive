@@ -17,3 +17,5 @@ test.txt：用于IIOP协议探测
 Weblogic_Vuln_Scan：借用https://github.com/FunctFan/Weblogic_Vuln_Scan.git  weblogic-scan升级版
 
 Tips：建议在linux下执行，windows下日志输出会有些乱序问题，后面我会再改的（如果有时间的话*——*
+
+add some files to suppost burpsuite
